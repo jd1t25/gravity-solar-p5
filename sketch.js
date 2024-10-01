@@ -101,7 +101,8 @@ function setup() {
       ),
     );
   }
-  // planets with scaled-down masses and velocities
+  
+  // planets with scaled-down masses and velocities ( Fixed Pos )
   // planets.push(
   //   new Planet(
   //     width / 2 + 200,
@@ -142,14 +143,16 @@ function setup() {
   //     createVector(0, speed * sqrt((G * sun.mass) / 500)),
   //   ),
   // );
-  frameRate(30);
-  createLoop({
-    duration: 1,
-    gif: {
-      download: true,
-      filename: "test.gif",
-    },
-  });
+
+  // Use for Gif Create ( if didnt work copy code and paste in p5 official website editor and run)
+  // frameRate(30); // Sets framerate
+  // createLoop({
+  //   duration: 1,  // How long duration gif you want in seconds
+  //   gif: {
+  //     download: true,
+  //     filename: "test.gif", // Filename
+  //   },
+  // });
 }
 
 // Draw Function
