@@ -4,10 +4,14 @@
 
 Just some fun project in free time where i wanted to learn p5js and wanted to create this {}.
 
+_If i made a mistake or want to know anything, feel free to open an issue_
+
 # Solar System Simulation
 
+_Only Sun Excerting Gravity (Fixed Position of Planets)_
 ![Only Sun Excerting Gravity (Fixed Position of Planets)](./assets/only_sun_gravity.gif)
 
+_Gravity Exerting by Planets as well (Random Position of Planets)_
 ![Gravity Exerting by Planets as well (Random Position of Planets)](./assets/gravity_affecting_planets.gif)
 
 ## Overview
