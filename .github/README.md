@@ -2,8 +2,9 @@
 
 2D gravity nearly correct simulation using p5js
 
-Just some fun project in free time where i wanted to learn p5js and wanted to create this {}.
-_Mass and Gravity is tone down_
+Just some fun project in free time where i wanted to learn p5js and wanted to create this __[3-body-problem](https://github.com/jd1t25/3-body-problem)__.
+
+_Mass and Gravity are tone down_
 
 _If i made a mistake or want to know anything, feel free to open an issue_
 
